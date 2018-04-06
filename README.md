@@ -1,2 +1,2 @@
-# AI_initiative
-This is my personal folder for projects related to AI, Deep Learning and Machine Learning
+# INTELEGIS Project
+This is my personal folder on testing for project INTELEGIS
